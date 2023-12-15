@@ -12,9 +12,9 @@ and solutions using various technologies and programming languages.
  
 
 <h2> TOP PROJECTS </h2>
-- goCash API
-- Fashion Blog API
-- Activity Tracker
+- Fintech App(Microservice)
+- Bank App
+- Logistic App
 
  
 
